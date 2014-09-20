@@ -1,5 +1,5 @@
 ## Transformations
-The (run_analysis.R)[run_analysis.R] script:
+The [run_analysis.R](run_analysis.R) script:
  
 * reads and merges `train/X_train.txt`, `test/X_test.txt` data sets into the `x.data`, and uses feature names from `features.txt` to name its columns
 
